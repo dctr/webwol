@@ -1,0 +1,22 @@
+{
+  "name": "webwol",
+  "version": "1.0.0",
+  "description": "Wake-on-LAN triggered via an HTTP request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dctr/webwol.git"
+  },
+  "author": "David Christ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dctr/webwol/issues"
+  },
+  "homepage": "https://github.com/dctr/webwol#readme",
+  "dependencies": {
+    "wake_on_lan": "^1.0.0"
+  }
+}
